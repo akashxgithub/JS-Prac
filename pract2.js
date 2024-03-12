@@ -79,7 +79,7 @@ console.log(newArray.sort()); //output : [23, 4, 55, 65, 78]
 
 <script>
   // Function to generate a random number between min and max (inclusive)
-  function generateRandomNumber(min, max) {
+  function generateRandomNumber(min, max) { // takes min and max parameters and returns a random integer within that range.
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
@@ -89,7 +89,7 @@ console.log(newArray.sort()); //output : [23, 4, 55, 65, 78]
     const randomNumber = generateRandomNumber(1, 100);
 
     // Displaying the result
-    document.getElementById('result').textContent = `Random Number: ${randomNumber}`;
+    document.getElementById('result').textContent = `Random Number: ${randomNumber}`; //Updates the text content of the paragraph with the id to display the generated random number. 
   });
 </script>
 
