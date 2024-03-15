@@ -1,0 +1,72 @@
+//semantic tags
+
+semantic tags tell about the type of content which make the code easier to write and understand for the developer as well as instruct the browser
+ex- <a>
+    <header>
+    <nav>
+    <main>
+    <section>
+    <footer>......
+
+
+//html root element
+
+In html, the root element is '<html>'.
+    it serves as container for all the other elements 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
+
+
+//DOCTYPE
+
+dpctype is an instruction that defines about the version of HTML or XHTML in which the web page is written.placed at very beginning of an html document before <html> tag
+
+
+//css box model
+
+css box model describes the layout and rendering of elements on a web page.
+it contains various properties, including borders, margins, padding, and the content.
+
+-Content: This is the content of the HTML element, such as text, images, or other media
+
+-Padding: Padding is the space between the content and the element's border. 
+
+-Border: The border is a line that surrounds the content and padding of the element.Borders can have various styles (solid, dashed, dotted, etc.), widths, and colors.
+
+-Margin: Margin is the space outside the border of the element. It creates space between the element and other elements in the layout.
+
+
+//absolute vs relative positioning
+
+
+
+//console
+
+
+The "console" generally refers to the developer console in web browsers, which is a tool provided by the browser that allows developers to interact with the webpage's JavaScript environment, debug code, and display messages or logs.
+It enables us to interact with a web page by executing JavaScript expressions in the contents of the page.
+
+useful in debugging ,inspecting,performance montior,can execute JavaScript there directly
+
+
+//ways to link js file
+
+using script tag in html doc
+external file  and external file with source attribute
+using type = module in script tag to show the file is a module
+
+//absolute vs relative
+absolute- element will be positioned relative to the closest positioned ancestor
+    vs
+relative - element will be positioned relative to its original position
