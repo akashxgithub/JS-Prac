@@ -1,0 +1,58 @@
+Compiler vs interpretor
+
+compiler                                                                    interpretor
+- translates entire code into machine code before                         - Executes source code line-by-line        
+execution,which generates an executable file.                             - Slower performance as it translates and executes code line by line
+-generates faster-running code                                            - Provides more interactive debugging capability since errors can be 
+-Debugging can be more challenging because errors                           identified and corrected during runtime
+are identified after the entire code is compiled                          - Consume less memory
+-consume more memory                                                      - shorter development cycle
+-Longer development cycle due to the compilation
+ step
+
+
+Adv of js
+
+1.Versatile-JavaScript is a versatile language that can be used for both front-end (client-side) and back-end (server-side) development
+2.Scalability: Suitable for projects of all sizes, from small websites to large-scale applications.
+3.Platform Independence: Runs on all major web browsers.
+4.Large Ecosystem: Abundant libraries, frameworks, and tools available.
+5.Interactivity: Enables dynamic and interactive web pages.
+6.Cross-Browser Compatibility: Ensures consistent performance across browsers.
+
+
+JS engine
+1.JavaScript engine is a program or component that interprets and executes JavaScript code
+2.It takes JavaScript code written by developers and translates it into instructions that the computer's processor can understand and execute
+
+JavaScript engines are used whenever you need to execute JavaScript code, such as web development,Server-Side Development,Mobile Application Development,Game Development,IOT
+
+
+How JS differs from other pgming languages
+1.Interpretation and Dynamic Typing
+2.Single-threaded with asynchronous behaviour achieved through events
+3.Primarily used for web dev 
+4. Runs on all major web browsers and can be executed on various platforms using Node.js
+5.DOM manipulation
+
+
+
+Why Js is synchronous?  How to make asynchronous
+
+Js is synchronous as it executes sequentially one statement at a time in the order it appearws in the program.
+We can make code execution asynchronous using various techniques and APIs.
+Like Callbacks,promises,Async/Await
+
+
+
+JS working
+
+-All the code is executed under global execution content which involves memory allocation and code execution
+-in memory allocation variables are allocated as undefined,functions whole functionality is stored
+3.uring code execution phase variables are assigned its values,functions are invoked and returned
+
+-firstly the code is parsed by the engine,which involves breaking the code into smaller components asnd ensures the code is valid
+
+-compiles code into machine code,engines use interpretation and compilation techniques to optimize performance.
+
+-The compiled code is executed line by line.The compiled code is executed line by line
