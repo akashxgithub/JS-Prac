@@ -1,0 +1,39 @@
+API - Application Programming Interface
+
+API acts as an intermediary that enables different software systems or components to interact with each other by providing a defined set of functionalities,data and protocols.
+
+uses - 
+Accessing external data and services.
+Integrating third-party functionality.
+Automating tasks and workflows.
+Enabling cross-platform compatibility.
+Scaling applications and fostering collaboration.
+
+how to use -
+Find the desired API.
+Read its documentation.
+Authenticate if required.
+Get its Key
+Make requests to access data or services.
+Handle responses appropriately in your application.
+
+Types - 
+Restful
+SOAP
+GraphQL
+Websocket
+Open/public
+Internal/private
+Partner 
+
+
+status code - 
+A status code is a numerical indicator returned by a server in response to a client's request. It communicates the outcome of the request, such as success, error, or redirection, in a concise format. Status codes help both clients and servers understand the state of the communication.
+
+
+types of status code -
+1xx informational - indicates server has recieved the request
+2xx success - indicates the req was succesfully recieved 
+3xx redirectional - indicates further action is to be taken to complete the request
+4xx client error - req contains incorrect syntax or cannot be fulfilled due to client side error
+5xx server error - indicates the server encountered an error while processing the request.
