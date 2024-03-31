@@ -56,3 +56,17 @@ JS working
 -compiles code into machine code,engines use interpretation and compilation techniques to optimize performance.
 
 -The compiled code is executed line by line.The compiled code is executed line by line
+
+
+advanced features of JS
+
+Promises and Async/Await: For asynchronous programming.
+Modules: For organizing code into reusable modules.
+Arrow Functions: For concise anonymous functions.
+Template Literals: For string interpolation and multiline strings.
+Destructuring Assignment: For extracting values from arrays or objects.
+Spread Syntax: For expanding iterable objects.
+Object and Array Methods: For efficient data manipulation.
+Classes and Inheritance: For object-oriented programming.
+Map, Set, WeakMap, WeakSet: For different data structures.
+Iterators and Generators: For custom iteration behavior.
