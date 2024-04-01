@@ -1,0 +1,31 @@
+ECMAScript
+
+ECMAScript (ES) is a standardized scripting language specification primarily used for web development. It provides rules and guidelines for languages like JavaScript to ensure consistency and interoperability across different platforms and implementations.
+
+ES6
+
+ES6, or ECMAScript 2015, is a major update to the JavaScript language specification, introducing new features like arrow functions, classes, template literals, and more, which enhance developer productivity and code readability.
+
+
+ES6 features 
+
+Arrow Functions: Concise syntax for writing functions.
+Classes: Syntactic sugar for constructor functions.
+Template Literals: String interpolation with backticks.
+Let and Const: Block-scoped variable declarations.
+Promises: Improved handling of asynchronous operations.
+Default Parameters: Values assigned to function parameters by default.
+Destructuring: Extracting values from arrays or objects.
+Spread Syntax: Spreading elements of iterable objects.
+Modules: Encapsulation of code into reusable units.
+Enhanced Object Literals: Shorthand syntax for object properties and methods.
+Rest Parameters: Gathering remaining arguments into an array.
+Symbol Data Type: Unique and immutable data type.
+Iterators and Iterables: Objects that can be iterated upon.
+Map and Set: New data structures for collections.
+WeakMap and WeakSet: Specialized collections with weak references.
+Promises: Objects representing the eventual completion or failure of an asynchronous operation.
+Typed Arrays: Arrays with specific element types.
+Proxy Objects: Custom behaviors for fundamental operations on objects.
+Reflect API: Provides methods for interceptable JavaScript operations.
+Binary and Octal Numeric Literals: Numeric literals in binary and octal formats.
